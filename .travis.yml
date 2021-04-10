@@ -24,8 +24,8 @@ jobs:
 install:
   - source tests/travis_install.sh
 before_script:
-  - git config --global user.email "you@example.com"
-  - git config --global user.name "Your Name"
+  - git config --global user.email "j.alban@uniandes.edu.co"
+  - git config --global user.name "Juan Jose Alban"
   # Useful information in case of debug
   - if [[ "$DISTRIB" == "conda" ]]; then conda info -a; fi
   - which tox
