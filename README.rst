@@ -1,5 +1,11 @@
 .. image:: https://travis-ci.com/ElCuboNegro/ruroni.svg?branch=main
  :target: https://travis-ci.com/ElCuboNegro/ruroni
+ :alt: CI Status
+
+ 
+.. image:: https://readthedocs.org/projects/ruroni/badge/?version=latest
+:target: https://ruroni.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 ======
 ruroni
