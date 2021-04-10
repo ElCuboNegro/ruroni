@@ -4,8 +4,8 @@
 
  
 .. image:: https://readthedocs.org/projects/ruroni/badge/?version=latest
-:target: https://ruroni.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
+ :target: https://ruroni.readthedocs.io/en/latest/?badge=latest
+ :alt: Documentation Status
 
 ======
 ruroni
