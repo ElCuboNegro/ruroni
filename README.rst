@@ -13,6 +13,8 @@ Ruroni
 
 Ruroni is just a boilerplate for my python projects made to my particular taste, however, you are free to copy it and use it.
 
+If you want to implement something within this scaffold, just follow the skeleton example.
+
 
 Description
 ===========
