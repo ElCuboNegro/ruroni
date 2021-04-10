@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ElCuboNegro/ruroni.svg?branch=main)](https://travis-ci.com/ElCuboNegro/ruroni)
+
 ======
 ruroni
 ======
