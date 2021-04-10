@@ -1,4 +1,5 @@
-.. image:: https://travis-ci.com/ElCuboNegro/ruroni.svg?branch=main)](https://travis-ci.com/ElCuboNegro/ruroni
+.. image:: https://travis-ci.com/ElCuboNegro/ruroni.svg?branch=main
+ :target: https://travis-ci.com/ElCuboNegro/ruroni
 
 ======
 ruroni
